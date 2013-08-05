@@ -9,4 +9,5 @@ Not much to see here yet, currently only returns a keyword list with a latitude 
 Geocode.start()
 coords = Geocode.fetch("Fairfax, Vermont")
 IO.puts coords[:lat]
+IO.puts coords[:lng]
 ```
