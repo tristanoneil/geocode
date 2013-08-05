@@ -6,7 +6,7 @@ defmodule Geocode do
 
     {[{"results", [json | _]}, _]} = :jiffy.decode result.body
 
-    [lat: lat, lng: lng] = [ lat: :ej.get({"geometry", "location", "lat"}, json),
+    [ lat: :ej.get({"geometry", "location", "lat"}, json),
       lng: :ej.get({"geometry", "location", "lng"}, json) ]
   end
 end
