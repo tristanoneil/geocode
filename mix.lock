@@ -1,0 +1,9 @@
+[ "ej": {:git, "git://github.com/seth/ej.git", "c33ab740d06c210711945460f8b902a160ff17dc", []},
+  "ejson": {:git, "git://github.com/benoitc/ejson.git", "3b81c6a55ac6c0affcf063610c9b8eb0e4468a11", []},
+  "httpotion": {:git, "git://github.com/myfreeweb/httpotion.git", "bc4f83ed0e433db3e1f7dbfb6377210990a35635", []},
+  "ibrowse": {:git, "git://github.com/cmullaparthi/ibrowse.git", "208277b69fa9cc1b68f37d1261a77abe6487a677", []},
+  "jiffy": {:git, "git://github.com/davisp/jiffy.git", "d16a4fd968e000b65e4678cccfad68d7a0a8bd1c", []},
+  "jsex": {:git, "git://github.com/talentdeficit/jsex.git", "e870b17fe168f5cc87505c88e578858532bd0d66", []},
+  "json": {:git, "git://github.com/ericmj/json.git", "a4a6cff65ceafefb63963cd11db14e433fc7c488", []},
+  "jsx": {:git, "git://github.com/talentdeficit/jsx.git", "352d6b21cbec4fe1b66bc7ce3ded67a3b32add2c", [{:tag, "v1.4.2"}]},
+  "mochiweb": {:git, "git://github.com/mochi/mochiweb.git", "b81e5047a44d55e1b42ddbc62a801940a1a693c4", [{:tag, "1.5.2"}]} ]
